@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm zarutech 👋</h1>
 
 <p align="center">
-  Student developer from Thailand · web apps, Linux tinkering, and blue-team security
+  <a href="https://github.com/Skysosmart">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Student+developer+from+Thailand;Arch+%2B+Kali+dual-booter+%F0%9F%90%A7;CTF+player+%26+blue-team+learner;Building+web+apps+%26+PWAs" alt="Typing banner">
+  </a>
 </p>
 
 <p align="center">
@@ -17,7 +19,7 @@
 - 🏢 Building things at **Pranakorn Corporation Co., Ltd.**
 - 📚 Preparing for university: I built my own study app for the SIIT entrance exam
 - 🛡️ Into defensive security and CTFs (Kali Purple, packet analysis, forensics)
-- 🐧 Daily driver: Kali Linux. If it only runs on Windows, I'll try to make it run on Linux anyway
+- 🐧 Dual-booting **Arch Linux** and **Kali Linux**. If it only runs on Windows, I'll try to make it run on Linux anyway
 
 ### 🚀 Featured projects
 
@@ -32,7 +34,7 @@
 ### 🛠️ Tech I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,c,bash,linux,kali,git,github,vercel,vscode" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,c,bash,linux,arch,kali,git,github,vercel,vscode" alt="Tech stack">
 </p>
 
 ### 📊 GitHub stats
@@ -40,3 +42,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Skysosmart&hide_border=true&theme=tokyonight" alt="GitHub streak">
 </p>
+
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skysosmart/Skysosmart/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skysosmart/Skysosmart/output/github-snake.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Skysosmart/Skysosmart/output/github-snake.svg">
+</picture>
